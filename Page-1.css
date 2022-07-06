@@ -1117,7 +1117,7 @@
 
 .u-section-9 .u-group-1 {
   width: 951px;
-  min-height: 1027px;
+  min-height: 1091px;
   margin: 129px auto 60px;
 }
 
@@ -1128,7 +1128,8 @@
 .u-section-9 .u-text-2 {
   font-weight: 700;
   font-size: 3.75rem;
-  width: 283px;
+  width: 456px;
+  line-height: 0.8;
   margin: 0 auto;
 }
 
@@ -1158,7 +1159,6 @@
 
   .u-section-9 .u-text-2 {
     width: 275px;
-    line-height: 1.6;
   }
 
   .u-section-9 .u-text-3 {
@@ -1203,7 +1203,6 @@
 
   .u-section-9 .u-text-2 {
     width: 290px;
-    line-height: 0.8;
     margin-top: 42px;
     margin-left: auto;
     margin-right: auto;
