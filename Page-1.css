@@ -1118,7 +1118,8 @@
 .u-section-9 .u-group-1 {
   width: 951px;
   min-height: 1091px;
-  margin: 129px auto 60px;
+  height: auto;
+  margin: 128px auto 60px;
 }
 
 .u-section-9 .u-container-layout-1 {
@@ -1128,9 +1129,8 @@
 .u-section-9 .u-text-2 {
   font-weight: 700;
   font-size: 3.75rem;
-  width: 456px;
   line-height: 0.8;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .u-section-9 .u-text-3 {
@@ -1150,6 +1150,7 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
+    height: auto;
   }
 
   .u-section-9 .u-container-layout-1 {
@@ -1204,8 +1205,8 @@
   .u-section-9 .u-text-2 {
     width: 290px;
     margin-top: 42px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-9 .u-text-3 {
